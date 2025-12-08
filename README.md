@@ -123,7 +123,7 @@ Ideal para análise de sensibilidade e visualização de comportamento.
 
 ## 🎬 Vídeo de Demonstração
 
-[https://youtu.be/L0topMASb7c](Harris Corner Detection – Visualização Didática Passo a Passo)
+https://youtu.be/L0topMASb7c
 
 ---
 
