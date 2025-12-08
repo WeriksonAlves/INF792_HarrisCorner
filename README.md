@@ -2,6 +2,10 @@
 
 Este projeto implementa e demonstra de forma **didática e passo a passo** o algoritmo de **Harris Corner Detection**. O foco principal é **facilitar o entendimento do algoritmo**, apresentando visualizações intermediárias, explicações teóricas e análises experimentais.
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ---
 
 # 📘 Objetivos do Trabalho
@@ -116,6 +120,10 @@ Esse script realiza testes variando:
 * Sigma da suavização
 
 Ideal para análise de sensibilidade e visualização de comportamento.
+
+## 🎬 Vídeo de Demonstração
+
+[https://youtu.be/L0topMASb7c](Harris Corner Detection – Visualização Didática Passo a Passo)
 
 ---
 
